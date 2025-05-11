@@ -1,7 +1,8 @@
 Feature: Agregar nuevos dispositivos al sistema
 
-  Como usuario, quiero agregar nuevos sensores/actuadores al sistema
-  Para expandir la cobertura de monitoreo
+  # Como usuario
+  # Quiero agregar nuevos sensores/actuadores al sistema
+  # Para expandir la cobertura de monitoreo
 
   Scenario: Agregar un nuevo dispositivo
     Given que el usuario ha iniciado sesión en la aplicación
