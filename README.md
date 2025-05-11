@@ -1,1 +1,1 @@
-# Owner-avatar-Acceptance-Tests
+# Acceptance-Tests
